@@ -16,3 +16,8 @@ Lo que quiero lograr:
 - Agregarle interacciones mediante microfono.
 
 Si alguien desea ayudarme con el proyecto sientase libre de escribirme.
+
+Ahora pasare a aclarar los archivos input y personalidad+input
+
+- El Archivo input.py solo enviara por unica vez el comportamiento que debe adoptar el chatbot.
+- El archivo personalidad+input enviara el comportamiento que adoptara el bot ante la pregunta del usuario.

@@ -1,7 +1,7 @@
 # AsistenteCoqueto
 Uso de ingenieria inversa para crear un asistente coqueto.
 
-Para que funcione debera obtener el Access de su cuenta de open ai token ingrese en el siguiente link:
+Para que funcione debera obtener el Access de su cuenta de open ai ingrese en el siguiente link:
 https://chat.openai.com/api/auth/session
 
 {
